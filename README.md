@@ -27,6 +27,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Java Feign Clients — Win the battle against the evil Empire! — Part II](https://medium.com/@douglas.fernandes_57576/java-feign-clients-win-the-battle-against-the-evil-empire-part-ii-2f49f5ef16c7?source=rss-ce7a125bd243------2)
+- [Java Feign Clients — Win the battle against the evil Empire! — Part I](https://medium.com/@douglas.fernandes_57576/java-feign-clients-win-the-battle-against-the-evil-empire-part-i-d570dc03dfeb?source=rss-ce7a125bd243------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

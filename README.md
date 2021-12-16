@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=douglasffilho" alt="douglasffilho" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/filhoeu" target="blank"><img src="https://img.shields.io/twitter/follow/filhoeu?logo=twitter&style=for-the-badge" alt="filhoeu" /></a> </p>
+<p align="left"> <a href="https://twitter.com/douglasffilho" target="blank"><img src="https://img.shields.io/twitter/follow/douglasffilho?logo=twitter&style=for-the-badge" alt="douglasffilho" /></a> </p>
 
 - 🔭 I’m currently working on **Recommendation Squad**
 
@@ -34,7 +34,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/douglasffilho" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="douglasffilho" height="30" width="40" /></a>
-<a href="https://twitter.com/filhoeu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="filhoeu" height="30" width="40" /></a>
+<a href="https://twitter.com/douglasffilho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="douglasffilho" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/douglas-fernandes-4175a585" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="douglas-fernandes-4175a585" height="30" width="40" /></a>
 <a href="https://medium.com/@douglas.fernandes_57576" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@douglas.fernandes_57576" height="30" width="40" /></a>
 </p>

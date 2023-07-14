@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Douglas Filho</h1>
-<h3 align="center">Full stack developer at Grupo Boticário LATAM E-commerce</h3>
+<h3 align="center">Lead Software Engineer at Nubank</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=douglasffilho&label=Profile%20views&color=0e75b6&style=flat" alt="douglasffilho" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/douglasffilho" target="blank"><img src="https://img.shields.io/twitter/follow/douglasffilho?logo=twitter&style=for-the-badge" alt="douglasffilho" /></a> </p>
 
-- 🔭 I’m currently working on **Recommendation Squad**
+- 🔭 I’m currently working on **Marketplace - Financial Services**
 
-- 🌱 I’m currently learning **Kotlin, Kubernetes, Ansible, Terraform and Go**
+- 🌱 I’m currently learning **Clojure and ClojureScript**
 
 - 🤝 I’m looking for help with **Java/Javascript Programming and Microservices Patterns**
 
@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://douglasffilho.dev](https://douglasffilho.dev)
 
-- 💬 Ask me about **ReactJS basics, Basics/Advanced Java Skills, Soft Skills, working with beauty at Grupo Boticário**
+- 💬 Ask me about **ReactJS basics, Advanced Java Skills, Soft Skills, working with customers better financial relationship at Nubank**
 
 - 📫 How to reach me **douglasf.filho@gmail.com**
 

@@ -35,7 +35,7 @@
 <p align="left">
 <a href="https://dev.to/douglasffilho" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="douglasffilho" height="30" width="40" /></a>
 <a href="https://twitter.com/douglasffilho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="douglasffilho" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/douglas-fernandes-4175a585" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="douglas-fernandes-4175a585" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/douglasffilho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="douglas-fernandes-4175a585" height="30" width="40" /></a>
 <a href="https://medium.com/@douglas.fernandes_57576" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@douglas.fernandes_57576" height="30" width="40" /></a>
 </p>
 
